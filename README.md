@@ -29,8 +29,3 @@ BIT2118_Full_Solution/
    docs/Full_Analysis_Report.md
    ```
 
-### Submission notes
-
-- Keep this folder (or the zip) in **your personal GitHub repository**.
-- Do **not** use a group repository.
-- Upload the GitHub link via VLMS as instructed.
